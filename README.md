@@ -1,6 +1,9 @@
 # FRTPROJECT
 THIS IS MY FINAL FRT PROJECT BY AMULYA SAI(20A31A05D0)
 AZURE LINK : https://red-river-0b278ac10.3.azurestaticapps.net
+STATIC WEB SITE : 
+PRIMARY ENDPOINT : https://frtprojecten.z29.web.core.windows.net/
+SECONDARY ENDPOINT : https://frtprojecten-secondary.z29.web.core.windows.net/
 
 HOME PAGE :
 
@@ -10,14 +13,20 @@ HOME PAGE :
 ![Screenshot (127)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/59e6015d-7523-4f66-a9dd-c987a1cf10bf)
 
 
+
+
 ABOUT PAGE : 
 ![Screenshot (128)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/1215df98-2cd7-40e7-ba36-82989d6d7a17)
 ![Screenshot (129)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/c8ab7f0a-81ae-4d65-aefc-2c8b3f023581)
 
 
+
+
 SERVICES PAGE : 
 ![Screenshot (130)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/8610429d-3fbf-4573-a5c3-6b872bf04601)
 ![Screenshot (131)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/0fae6fbf-1c3c-45bc-94ea-6f54788e76f0)
+
+
 
 
 PAGE : WEB ICONS :
@@ -29,10 +38,14 @@ PAGE : WEB ICONS :
 ![Screenshot (137)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/f47008d3-47ef-483d-a58a-c177725a318a)
 
 
+
+
 PAGE : TYPOGRAPHY : 
 ![Screenshot (138)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/b5bf5164-0e32-4633-aaa4-bf4af8558331)
 ![Screenshot (139)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/5e2661d7-90df-4284-9320-41e009b95edd)
 ![Screenshot (140)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/a4b4d2c1-2476-4db9-b89e-980fa0f05641)
+
+
 
 
 GALLERY : 
@@ -40,6 +53,27 @@ GALLERY :
 ![Screenshot (142)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/c5b5185f-83e2-4e74-8571-fa4a6b1b0e4e)
 
 
+
+
 CONTACT :
 ![Screenshot (143)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/27cf3f09-0bc9-4279-b9f5-be9862f33e8d)
 ![Screenshot (144)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/2331302e-272a-4ad0-83cc-b406673cb0e2)
+
+STATIC WEB APP : 
+
+![Screenshot (145)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/8cfda958-4ce8-43d1-99c3-10f37b508491)
+
+
+
+CONTAINER : 
+
+![Screenshot (146)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/695ce8be-53cf-445c-90ba-f63811484b0d)
+
+
+
+
+STORAGE ACCOUNT  : 
+
+
+![Screenshot (147)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/a84da6e9-fe85-440f-a5cd-c7bdeaea174a)
+![Screenshot (148)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/e68dccec-13b1-4d6d-a57d-05347c5cecdf)
