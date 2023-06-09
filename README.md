@@ -91,6 +91,4 @@ STORAGE ACCOUNT  :
 
 
 
-DEMO URL : 
-https://drive.google.com/drive/folders/1WNsBvLaK7aZqPGEUVTy5CodDz2V3MTX8?usp=sharing
 
