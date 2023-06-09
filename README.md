@@ -10,6 +10,11 @@ PRIMARY ENDPOINT : https://frtprojecten.z29.web.core.windows.net/
 
 SECONDARY ENDPOINT : https://frtprojecten-secondary.z29.web.core.windows.net/
 
+
+DEMO URL : 
+
+https://drive.google.com/drive/folders/1WNsBvLaK7aZqPGEUVTy5CodDz2V3MTX8?usp=sharing
+
 HOME PAGE :
 
 ![Screenshot (124)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/9d96642a-ff04-4caa-999d-1cdb9df72341)
@@ -82,3 +87,9 @@ STORAGE ACCOUNT  :
 
 ![Screenshot (147)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/a84da6e9-fe85-440f-a5cd-c7bdeaea174a)
 ![Screenshot (148)](https://github.com/20A31A05D0/FRTPROJECT/assets/109793005/e68dccec-13b1-4d6d-a57d-05347c5cecdf)
+
+
+
+DEMO URL : 
+https://drive.google.com/drive/folders/1WNsBvLaK7aZqPGEUVTy5CodDz2V3MTX8?usp=sharing
+
