@@ -12,7 +12,7 @@ PRIMARY ENDPOINT : https://frtprojecten.z29.web.core.windows.net/
 SECONDARY ENDPOINT : https://frtprojecten-secondary.z29.web.core.windows.net/
 
 
-DEMO URL : 
+DEMO VIDEO  URL : 
 
 https://drive.google.com/drive/folders/1WNsBvLaK7aZqPGEUVTy5CodDz2V3MTX8?usp=sharing
 
